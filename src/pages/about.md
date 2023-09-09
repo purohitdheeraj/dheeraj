@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/MainLayout.astro
 title: "Dheeraj Purohit"
-description: "About Page"
+description: About Page
 ---
 
 # About Dheeraj Purohit

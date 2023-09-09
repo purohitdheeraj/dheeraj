@@ -1,7 +1,6 @@
 ---
 layout: ../layouts/MainLayout.astro
-title: "Hare Krishna"
-pageName: "home"
+title: home
 description: Dheeraj's Home Page
 ---
 
@@ -25,12 +24,12 @@ Greetings! I'm Dheeraj Purohit, a versatile Full Stack Developer based in Mumbai
 
 ### Skills
 
-- **Programming Languages**: JavaScript (ES6+), TypeScript
-- **Front-end**: React,
-- **Back-end**: Node.js, Express
+- **Programming Languages**: JavaScript (ES6+), TypeScript, Python
+- **Front-end**: React, Redux, React-Router, Handlebars, TailwindCSS, Material UI, Styled Components, Astro
+- **Back-end**: Node.js, Express, Firebase
 - **Database**: MongoDB, MySQL
-- **Tools**: Git, Webpack, Figma
-- **Other**: RESTful APIs, GraphQL,
+- **Tools**: Git, Webpack, Figma, WordPress
+- **Other**: RESTful APIs, GraphQL
 
 ---
 
@@ -64,6 +63,8 @@ _March 2023 - August 2023_
 ---
 
 ### Education
+
+- **MERN Stack Development**, Neogcamp Cohort - 2022
 
 - **Bachelor of Engineering in Computer Science**, University of Mumbai - 2021
 
