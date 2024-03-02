@@ -25,7 +25,8 @@ Greetings! I'm Dheeraj Purohit, a versatile Full Stack Developer based in Mumbai
 ### Skills
 
 - **Programming Languages**: JavaScript (ES6+), TypeScript, Python
-- **Front-end**: React, Redux, React-Router, Handlebars, TailwindCSS, Material UI, Styled Components, Astro
+- **Front-end**: ReactJS, NextJS, Redux, React-Router, Handlebars, Astro
+- **Styling** : TailwindCSS, Material UI, Styled Components
 - **Back-end**: Node.js, Express, Firebase
 - **Database**: MongoDB, MySQL
 - **Tools**: Git, Webpack, Figma, WordPress
@@ -35,9 +36,19 @@ Greetings! I'm Dheeraj Purohit, a versatile Full Stack Developer based in Mumbai
 
 ### Experience
 
+#### Frontend Developer at PolyDesign
+
+_October 2023 - Present_
+
+- Leaded the project from research to working prototype
+
+- Tech stack : nextjs, vanillaCSS, mysql, python
+
+- Collaborated with designers, clients
+
 #### Full Stack Developer at Skill Valley
 
-_August 2023 - Present_
+_August 2023 - October_
 
 - Collaborated on the VeWrite aimed at simplifying content management for writers.
 - Conducted user research, competitive analysis and contributed to UX design for a seamless user experience.
@@ -45,6 +56,8 @@ _August 2023 - Present_
 - Engineered key features including an admin dashboard, content categorization filters, and idea repository.
 
 - We used technologies such as React JS, Redux, Tailwind CSS, and Firebase to build an exclusive platform for writers.
+
+- Project Live Link : [vewrite](https://vewrite.vercel.app/)
 
 #### UX Designer at Develop for Good
 
@@ -58,9 +71,43 @@ _March 2023 - August 2023_
 
 - Collaborated in a team of 8, including a design manager, engineering manager, fellow designer, and the client
   based in the US.
-- New live website: https://theclubs.org/
+
+- Project live Link: [projectlink](https://theclubs.org/)
+- UX Case Study: [casestudy](https://developforgood.notion.site/The-Boys-Girls-Clubs-Refreshing-a-website-to-revitalize-image-and-access-78a8c0add4cd4484ae0d94368e42c308)
 
 ---
+
+### Projects
+
+#### Inclusive UI
+
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Description**: A Design Library guided by Inclusive Design Principles designed to improve accessibility, providing an inclusive user experience for all.
+- **GitHub**: [Inclusive-UI](https://github.com/purohitdheeraj/Inclusive-Design)
+- **Screenshot**:
+
+  [![Inclusive UI](/inclusive-ui.netlify.app_.png)](https://inclusive-ui.netlify.app/)
+
+#### TalentTrack
+
+- **Tech Stack**: ReactJs, React-Router, firebase (auth)
+- **What's Unique** : Multi-step form + extensive use of custom localStorage hook
+- **Description**: TalentTrack: Easily manage, track, analyze talent leads
+- **GitHub**: [TalentTrack](https://github.com/purohitdheeraj/TalentTrack)
+- **Screenshot** :
+
+  [![Talent Track](/talent-track-nonstop.vercel.app_candidate_1.png)](https://talent-track-nonstop.vercel.app/)
+
+#### Vewrite
+
+- **Tech Stack**: ReactJs, React-Router, firebase (auth + firestore DB), Tailwind, Sentry
+- **Description**: VeWrite: Effortlessly Manage Your Writing Projects, Collaborate with Fellow Writers, and Unlock New Opportunities
+
+- **GitHub**: [VeWrite](https://github.com/purohitdheeraj/C4-team-4)
+
+- **Screenshot** :
+
+  [![VeWrite](/vewrite.vercel.app_.png)](https://vewrite.vercel.app/)
 
 ### Education
 
@@ -81,19 +128,3 @@ _March 2023 - August 2023_
 - Gave a talk on the role of web browsers in digital forensics at the International Conference of Law and Forensic Justice, March 5-6, 2022. [My talk on web browsers](https://www.youtube.com/watch?v=xQ1hVL2_2Bg)
 
 - Awarded 1st prize for presenting a technical paper at the 9th National Conference on the Role of Engineers in Nation Building – 2021 (NCRENB-2021). Published Paper: [NLP Based Interview Assessment System](https://www.viva-technology.org/New/IJRI/2021/104.pdf)
-
----
-
-### Projects
-
-#### Inclusive UI
-
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Description**: A Design Library guided by Inclusive Design Principles designed to improve accessibility, providing an inclusive user experience for all.
-- **GitHub**: [github.com/purohitdheeraj/Inclusive-Design](https://github.com/purohitdheeraj/Inclusive-Design)
-
-#### CineMate
-
-- **Tech Stack**: ReactJs, Tailwind, React-Router
-- **Description**: CineMate: Your go-to for current movies and ratings.
-- **GitHub**: [github.com/purohitdheeraj/cinemate](https://github.com/purohitdheeraj/cinemate)
