@@ -127,4 +127,4 @@ _March 2023 - August 2023_
 
 - Gave a talk on the role of web browsers in digital forensics at the International Conference of Law and Forensic Justice, March 5-6, 2022. [My talk on web browsers](https://www.youtube.com/watch?v=xQ1hVL2_2Bg)
 
-- Awarded 1st prize for presenting a technical paper at the 9th National Conference on the Role of Engineers in Nation Building – 2021 (NCRENB-2021). Published Paper: [NLP Based Interview Assessment System](https://www.viva-technology.org/New/IJRI/2021/104.pdf)
+- Awarded 1st prize for presenting a technical paper at the 9th National Conference on the Role of Engineers in Nation Building – 2021 (NCRENB-2021). Published Paper: [NLP Based Interview Assessment System](https://drive.google.com/drive/folders/1jYyq0qsEG0-n7aCCVIZGKZCkiov9Rg2J?usp=sharing)
