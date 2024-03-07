@@ -25,7 +25,7 @@ Greetings! I'm Dheeraj Purohit, a versatile Full Stack Developer based in Mumbai
 ### Skills
 
 - **Programming Languages**: JavaScript (ES6+), TypeScript, Python
-- **Front-end**: ReactJS, NextJS, Redux, React-Router, Handlebars, Astro
+- **Front-end**: ReactJS, NextJS, Redux, React-Router, Handlebars, Astro, Svelte
 - **Styling** : TailwindCSS, Material UI, Styled Components
 - **Back-end**: Node.js, Express, Firebase
 - **Database**: MongoDB, MySQL
@@ -38,7 +38,7 @@ Greetings! I'm Dheeraj Purohit, a versatile Full Stack Developer based in Mumbai
 
 #### Frontend Developer at PolyDesign
 
-_October 2023 - Present_
+_October 2023 - February 2024_
 
 - Leaded the project from research to working prototype
 
@@ -48,7 +48,7 @@ _October 2023 - Present_
 
 #### Full Stack Developer at Skill Valley
 
-_August 2023 - October_
+_August 2023 - October 2023_
 
 - Collaborated on the VeWrite aimed at simplifying content management for writers.
 - Conducted user research, competitive analysis and contributed to UX design for a seamless user experience.
